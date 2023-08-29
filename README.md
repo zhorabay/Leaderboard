@@ -5,6 +5,7 @@
 
 # 📗 Table of Contents
 
+<<<<<<< HEAD
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
@@ -18,6 +19,19 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
+=======
+- [📗 Table of Contents](#-table-of-contents)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+    - [Prerequisites](#prerequisites)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
+>>>>>>> 29cce43 (Update Readme file)
 
 
 **[The leaderboard website]** displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.<br />
