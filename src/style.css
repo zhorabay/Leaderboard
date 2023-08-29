@@ -62,13 +62,13 @@ h1 {
   gap: 20px;
 }
 
-.add {
+#add {
   display: flex;
   flex-direction: column;
   width: 100%;
 }
 
-.add input {
+#add input {
   padding: 10px;
   border: 1px solid;
   font-size: 12px;
