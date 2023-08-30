@@ -1,5 +1,5 @@
-const newGame = async (monopoly) => {
-  const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/');
+const createNewGame = async (monopoly) => {
+  const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games');
   await fetch(request, {
     method: 'POST',
     body: JSON.stringify({
@@ -12,7 +12,7 @@ const newGame = async (monopoly) => {
 };
 
 const postPlayer = async (playerName, playerScores) => {
-  const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/Ka7z51AKjpHFS098ewC/scores/');
+  const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/rGp2reoqk4GMj6QaC1QY/scores/');
   await fetch(request, {
     method: 'POST',
     body: JSON.stringify({
@@ -26,7 +26,7 @@ const postPlayer = async (playerName, playerScores) => {
 };
 
 const loadScores = async () => {
-  const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/Ka7z51AKjpHFS098ewC/scores/');
+  const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/rGp2reoqk4GMj6QaC1QY/scores/');
   const response = await fetch(request);
   const data = await response.json();
   const listPlayers = document.querySelector('#list-container');
@@ -46,5 +46,5 @@ const clearFields = () => {
 };
 
 export {
-  newGame, postPlayer, loadScores, clearFields,
+  createNewGame, postPlayer, loadScores, clearFields,
 };

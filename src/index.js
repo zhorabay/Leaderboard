@@ -1,7 +1,7 @@
 import './style.css';
 import {
-  newGame, postPlayer, loadScores, clearFields,
-} from './modules/api.js';
+  createNewGame, postPlayer, loadScores, clearFields,
+} from './modules/apiRequest.js';
 
 document.getElementById('refresh').addEventListener('click', (event) => {
   event.preventDefault();
@@ -16,4 +16,4 @@ document.getElementById('submit').addEventListener('click', (event) => {
   clearFields();
 });
 
-newGame();
+createNewGame();
