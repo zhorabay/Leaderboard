@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 - write: git clone git@github.com:zhorabay/Leaderboard.git
 - get into to directory "Leaderboard"
 - write: npm install
-[
+- then write: npm start
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -78,7 +78,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/zhorabay/Leaderboard/issues/3)
+Feel free to check the [issues page](https://github.com/zhorabay/Leaderboard/issues/4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
