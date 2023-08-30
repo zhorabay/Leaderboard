@@ -1,9 +1,9 @@
-const createNewGame = async (Monopoly) => {
+const createNewGame = async () => {
   const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games');
   await fetch(request, {
     method: 'POST',
     body: JSON.stringify({
-      name: Monopoly,
+      name: "Monopoly",
     }),
     headers: {
       'Content-Type': 'application/json; charset=UTF-8',
@@ -16,7 +16,7 @@ const postPlayer = async (playerName, playerScores) => {
   await fetch(request, {
     method: 'POST',
     body: JSON.stringify({
-      username: playerName,
+      user: playerName,
       score: playerScores,
     }),
     headers: {
@@ -29,11 +29,12 @@ const loadScores = async () => {
   const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/rGp2reoqk4GMj6QaC1QY/scores/');
   const response = await fetch(request);
   const data = await response.json();
+  data.result.sort((a, b) => b.score - a.score);
   const listPlayers = document.querySelector('#list-container');
   listPlayers.innerHTML = '';
   data.result.forEach((e) => {
     const li = document.createElement('li');
-    li.innerHTML = `<span>${e.username} : </span><span> ${e.score}</span>`;
+    li.innerHTML = `<span>${e.user} : </span><span> ${e.score}</span>`;
     listPlayers.appendChild(li);
   });
 };

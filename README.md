@@ -4,7 +4,8 @@
 </div>
 
 # 📗 Table of Contents
-- [📗 Table of Contents](#-table-of-contents)
+
+- [� Table of Contents](#-table-of-contents)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
