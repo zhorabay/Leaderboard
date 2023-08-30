@@ -1,9 +1,9 @@
-const createNewGame = async (monopoly) => {
+const createNewGame = async (Monopoly) => {
   const request = new Request('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games');
   await fetch(request, {
     method: 'POST',
     body: JSON.stringify({
-      name: monopoly,
+      name: Monopoly,
     }),
     headers: {
       'Content-Type': 'application/json; charset=UTF-8',
