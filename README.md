@@ -3,33 +3,18 @@
   <h3><b>Leaderboard</b></h3>
 </div>
 
-# 📗 Table of Contents
+# 📗 Table of Contents <!-- omit in toc -->
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
+- [🛠 Built With ](#-built-with-)
+  - [Tech Stack ](#tech-stack-)
+  - [Key Features ](#key-features-)
   - [Prerequisites](#prerequisites)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
-- [📗 Table of Contents](#-table-of-contents)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-    - [Prerequisites](#prerequisites)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
-
+- [👥 Authors ](#-authors-)
+- [🔭 Future Features ](#-future-features-)
+- [🤝 Contributing ](#-contributing-)
+- [⭐️ Show your support ](#️-show-your-support-)
+- [🙏 Acknowledgments ](#-acknowledgments-)
+- [📝 License ](#-license-)
 
 **[The leaderboard website]** displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.<br />
 
@@ -107,7 +92,7 @@ If you like this project, pplease, feel free to star the repository and share it
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse team and Code reviewers who helped us with creating this project.
+I would like to thank Microverse team and Code reviewers who helped us with creating this project. Also, I would like to express my sincere gratitude to [Lucas Erkana](https://github.com/Lucas-Erkana) for his valuable assistance in solving a problem in the JavaScript leaderboard app. His expertise and guidance was instrumental in finding a solution.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
