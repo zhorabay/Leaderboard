@@ -3,7 +3,7 @@ const createNewGame = async () => {
   await fetch(request, {
     method: 'POST',
     body: JSON.stringify({
-      name: "Monopoly",
+      name: 'Monopoly',
     }),
     headers: {
       'Content-Type': 'application/json; charset=UTF-8',
