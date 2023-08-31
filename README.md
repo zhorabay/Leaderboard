@@ -8,7 +8,6 @@
 - [🛠 Built With ](#-built-with-)
   - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
-- [🚀 Live Demo](#live-demo)
   - [Prerequisites](#prerequisites)
 - [👥 Authors ](#-authors-)
 - [🔭 Future Features ](#-future-features-)
@@ -34,10 +33,6 @@
 - **[Used GitFlow]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo link](https://zhorabay.github.io/Leaderboard/dist)
 
 - ## 💻 Getting Started <a name="getting-started"></a>
 
