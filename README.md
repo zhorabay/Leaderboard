@@ -8,6 +8,7 @@
 - [🛠 Built With ](#-built-with-)
   - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
+- [🚀 Live Demo](#live-demo)
   - [Prerequisites](#prerequisites)
 - [👥 Authors ](#-authors-)
 - [🔭 Future Features ](#-future-features-)
@@ -34,6 +35,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo link](https://zhorabay.github.io/Leaderboard/dist)
+
 - ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -53,6 +58,7 @@ To get a local copy up and running follow these simple example steps.
 - get into to directory "Leaderboard"
 - write: npm install
 - then write: npm start
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -68,8 +74,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Send and receive data from an API.]**
-- [ ] **[Use medium-fidelity wireframes to create a UI]**
+- [ ] **[Sort the data]**
+- [ ] **[Give video background]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +98,7 @@ If you like this project, pplease, feel free to star the repository and share it
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse team and Code reviewers who helped us with creating this project. Also, I would like to express my sincere gratitude to [Lucas Erkana](https://github.com/Lucas-Erkana) for his valuable assistance in solving a problem in the JavaScript leaderboard app. His expertise and guidance was instrumental in finding a solution.
+I would like to thank Microverse team and Code reviewers who helped me with creating this project and my husband and daughter for their great support. Also, I would like to express my sincere gratitude to [Lucas Erkana](https://github.com/Lucas-Erkana) for his valuable assistance in solving a problem in the JavaScript leaderboard app. His expertise and guidance was instrumental in finding a solution.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
