@@ -29,10 +29,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Used ES6 Javascript]**
-- **[Used Webpack]**
-- **[Used GitFlow]**
-- **[Used an API]**
+- **[Enter name and score]**
+- **[Click submit to store name and score]**
+- **[Click refresh button to view the score list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
