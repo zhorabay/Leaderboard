@@ -32,6 +32,7 @@
 - **[Used ES6 Javascript]**
 - **[Used Webpack]**
 - **[Used GitFlow]**
+- **[Used an API]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +99,7 @@ If you like this project, pplease, feel free to star the repository and share it
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse team and Code reviewers who helped me with creating this project and my husband and daughter for their great support. Also, I would like to express my sincere gratitude to [Lucas Erkana](https://github.com/Lucas-Erkana) for his valuable assistance in solving a problem in the JavaScript leaderboard app. His expertise and guidance was instrumental in finding a solution.
+I would like to thank Microverse team and Code reviewers who helped me with creating this project and my husband and daughter for their great support. Also, I would like to express my sincere gratitude to [Lucas Erkana](https://github.com/Lucas-Erkana) and [Raphael Miyoyo](https://github.com/rmiyoyo) for their valuable assistance in solving a problem in the JavaScript leaderboard app. Their expertise and guidance was instrumental in finding a solution.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
