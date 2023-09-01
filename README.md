@@ -9,6 +9,7 @@
   - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
   - [Prerequisites](#prerequisites)
+- [🚀 Live Demo](#live-demo)
 - [👥 Authors ](#-authors-)
 - [🔭 Future Features ](#-future-features-)
 - [🤝 Contributing ](#-contributing-)
@@ -33,6 +34,10 @@
 - **[Used GitFlow]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo link](https://zhorabay.github.io/Leaderboard/dist/)
 
 - ## 💻 Getting Started <a name="getting-started"></a>
 
