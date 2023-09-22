@@ -91,14 +91,14 @@ Feel free to check the [issues page](https://github.com/zhorabay/Leaderboard/iss
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, pplease, feel free to star the repository and share it with others who might benefit from it.
+If you like this project, please, feel free to give a star the repository and share it with others who might benefit from it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse team and Code reviewers who helped me with creating this project and my husband and daughter for their great support. Also, I would like to express my sincere gratitude to [Lucas Erkana](https://github.com/Lucas-Erkana) and [Raphael Miyoyo](https://github.com/rmiyoyo) for their valuable assistance in solving a problem in the JavaScript leaderboard app. Their expertise and guidance was instrumental in finding a solution.
+I would like to thank the Microverse team and Code reviewers who helped me create this project and my husband and daughter for their tremendous support. Also, I would like to express my sincere gratitude to [Lucas Erkana](https://github.com/Lucas-Erkana) and [Raphael Miyoyo](https://github.com/rmiyoyo) for their valuable assistance in solving a problem in the JavaScript leaderboard app. Their expertise and guidance were instrumental in finding a solution.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
